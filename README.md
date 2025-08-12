@@ -60,3 +60,14 @@ This repository contains a Power BI project analyzing quarterly sales performanc
 - Observation: Year-end sales spike due to holiday promotions.
 
 ---
+
+## Key Business Insights
+- Technology consistently leads sales, but Office Supplies has better profit margins.
+- Furniture needs pricing and discount strategy review.
+- West and East regions outperform South in overall profit.
+- Q4 shows strong holiday sales boost.
+---
+
+# Conclusion
+This dashboard provides a clear, interactive, and insightful view of sales performance.
+It can help managers and decision-makers identify trends, optimize product strategy, and improve profitability.
